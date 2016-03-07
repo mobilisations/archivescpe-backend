@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Document.create(name: "1st document")
+Document.create(name: "2nd document")
+Document.create(name: "3rd document")
